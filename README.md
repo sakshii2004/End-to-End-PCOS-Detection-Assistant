@@ -11,4 +11,5 @@ This repository presents a comprehensive approach to detecting Polycystic Ovary 
 - **pcos-detection-from-usg-images.ipynb:** Focusing on ultrasound (USG) image analysis, this notebook demonstrates the use of convolutional neural networks (CNNs) for feature extraction and classification. It includes steps for image augmentation, model training, validation, and testing to accurately identify PCOS from ultrasound imagery.
 
 ## Data Availability
-The datasets utilized in these notebooks are included in the repository.
+- One of the dataset (PCOS_data_without_infertility.xlsx) utilized in these notebooks are included in the repository.
+- Another dataset consisting of USG images due to size contrainsts could not be uploaded but is available at: https://figshare.com/articles/dataset/PCOS_Dataset/27682557?file=50407062
